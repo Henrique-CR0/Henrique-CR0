@@ -176,3 +176,9 @@ Projetos que fazem parte da minha evolução no desenvolvimento.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0EA5E9&height=100&section=footer" width="100%" />
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique-CR0/Henrique-CR0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique-CR0/Henrique-CR0/output/github-contribution-grid-snake.svg" />
+  <img alt="cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Henrique-CR0/Henrique-CR0/output/github-contribution-grid-snake.svg" />
+</picture>
